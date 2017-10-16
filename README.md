@@ -1,5 +1,6 @@
 # ParkSys
 Semester Projekt HBRS
-das ist eine änderung 1
+das ist eine Ã¤nderung 1
 
-noch eine �nderung 2
+noch eine änderung 2
+das nerv
